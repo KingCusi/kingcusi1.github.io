@@ -6,7 +6,7 @@ import siteConfig from './src/data/site-config';
 
 // https://astro.build/config
 export default defineConfig({
-    site:´https://KingCusi1.github.io´,
+    site:´https://kingcusi.github.io/kingcusi1.github.io/´,
     vite: {
         plugins: [tailwindcss()]
     },
